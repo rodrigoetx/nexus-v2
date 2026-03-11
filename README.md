@@ -42,8 +42,8 @@ O módulo de OCR depende do motor do Tesseract instalado no seu sistema raiz.
 ### 2. Clonando e Instalando Dependências
 Clone este repositório e navegue até a pasta instanciada:
 ```bash
-git clone https://github.com/rodrigoetx/nexus-v2-cacau-show.git
-cd nexus-v2-cacau-show
+git clone https://github.com/rodrigoetx/nexus-v2.git
+cd nexus-v2
 ```
 
 Crie um ambiente virtual (opcional, porém altamente recomendado) e instale o arquivo de requisitos:
